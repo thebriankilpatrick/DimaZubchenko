@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TestComponent() {
+function Navbar() {
     return (
         <div>
             <h1>test</h1>
@@ -8,4 +8,4 @@ function TestComponent() {
     )
 }
 
-export default TestComponent;
+export default Navbar;
